@@ -1,0 +1,3 @@
+regolith.look.path: /usr/share/regolith-look/custom
+wm.binding.terminal: Ctrl+t
+wm.binding.scratchpad: Return

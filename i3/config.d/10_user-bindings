@@ -1,0 +1,8 @@
+## Launch // Emacs Client // <Win><Alt> Enter ##
+bindsym $mod+$alt+Return exec --no-startup-id emacsclient --create-frame --alternate-editor=""
+
+## Launch // Edit in Emacs // <Win><Ctrl> Enter ##
+bindsym $mod+Ctrl+Return exec --no-startup-id emacsclient --eval "(emacs-everywhere)"
+
+## Launch // Pomodoro Timer // <Win> p ##
+bindsym $mod+p exec --no-startup-id /usr/bin/gnome-pomodoro

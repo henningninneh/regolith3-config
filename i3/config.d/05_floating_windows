@@ -1,0 +1,7 @@
+for_window [class="(.*join\?action\=join.*|.*zoom.*)"] floating enable
+for_window [class="(.*join\?action\=join.*|.*zoom.*)" title="Zoom - Licensed Account"] floating disable
+for_window [class="(.*join\?action\=join.*|.*zoom.*)" title="Zoom Meeting"] floating disable
+for_window [class="Zotero" title="Quick Format Citation"] floating enable
+for_window [class="Zotero" title="Progress"] floating enable
+for_window [class="Zotero" instance="Toplevel"] floating enable
+for_window [class="Gnome-pomodoro" instance="gnome-pomodoro"] floating enable
