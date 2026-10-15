@@ -1,3 +1,6 @@
-regolith.look.path: /usr/share/regolith-look/custom
 wm.binding.terminal: Ctrl+t
 wm.binding.scratchpad: Return
+!regolith.look.path: /usr/share/regolith-look/custom
+regolith.look.path: /usr/share/regolith-look/dracula
+gnome.terminal.update: false
+gtk.font_name: Berkeley Mono 9
